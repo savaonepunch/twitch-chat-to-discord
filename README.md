@@ -7,7 +7,7 @@ TCTD is an application that shows your Twitch chat inside of a Discord channel i
 1. Go to https://dev.twitch.tv/ and create an application to get your token and client ID.
 2. Create a webhook link on Discord by going to a channel's settings.
 3. Create a `secrets.json` file and place it in the same directory as `index.js`.
-4. The inside of the `secrets.json` file shouls look like this:
+4. The inside of the `secrets.json` file should look like this:
 ```json
 {
     "token": "YOUR_TOKEN",
