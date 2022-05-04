@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/f2RQLoQ.png" width="auto" height="200">
+<img src="https://i.imgur.com/f2RQLoQ.png" width="auto" height="150">
 
 ## How to use
 
