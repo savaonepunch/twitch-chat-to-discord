@@ -16,4 +16,4 @@ TCTD to show your Twitch chat inside of a d Discord channel in real-time. It wor
     "channels": ["YOUR_CHANNEL(S)"]
 }
 ```
-4. Done! All you have to do now 
+4. Done! Run `node index.js` and while this is open your Twitch chat(s) chat will be logged on Discord.
