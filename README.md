@@ -16,4 +16,4 @@ TCTD is an application that shows your Twitch chat inside of a Discord channel i
     "channels": ["YOUR_CHANNEL(S)"]
 }
 ```
-4. Done! Run `node index.js` and while this is open your Twitch chat(s) chat will be logged on Discord.
+4. Done! Run `node index.js` and while this is open your Twitch chat(s) will be logged on Discord.
