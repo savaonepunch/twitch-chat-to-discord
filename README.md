@@ -12,7 +12,7 @@ TCTD is an application that shows your Twitch chat inside of a Discord channel i
 {
     "token": "YOUR_TOKEN",
     "clientId": "YOUR_CLIENT_ID",
-    "webhook": "YOUR_DISCORD_WEBHOOK"
+    "webhook": "YOUR_DISCORD_WEBHOOK",
     "channels": ["YOUR_CHANNEL(S)"]
 }
 ```
